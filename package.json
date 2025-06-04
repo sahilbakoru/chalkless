@@ -1,6 +1,6 @@
 {
   "name": "chalkless",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Lightweight console.log styling without dependencies",
   "main": "index.js",
   "scripts": {
