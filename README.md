@@ -2,6 +2,10 @@
 
 Simple, zero-dependency console styling utility for Node.js and browser.
 
+| Terminal (Node.js)        | Browser Console (React)       |
+|---------------------------|-------------------------------|
+| ![Terminal Output](https://github.com/user-attachments/assets/eeafa8db-60c7-4510-9f2e-4e2be3502a67)   | ![Browser Output](https://github.com/user-attachments/assets/85991ae4-9d51-41f8-b431-c9495946102e)        |
+
 
 
 
