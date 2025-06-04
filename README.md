@@ -1,4 +1,4 @@
-# Chalkless – (like Chalk, but no deps)
+# Chalkless – Because `console.red()` is fun.
 
 Simple, zero-dependency console styling utility for Node.js and browser.
 
