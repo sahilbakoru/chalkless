@@ -1,12 +1,29 @@
 {
   "name": "chalkless",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "description": "Lightweight console.log styling without dependencies",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No tests yet\""
   },
-  "keywords": [],
-  "description": "Lightweight console.log styling without dependencies",
-  "author": "Sahilbakoru",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sahilbakoru/chalkless.git"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "styling",
+    "color",
+    "terminal",
+    "browser",
+    "chalk",
+    "no-dependencies"
+  ],
+  "author": "Sahil Bakoru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sahilbakoru/chalkless/issues"
+  },
+  "homepage": "https://github.com/sahilbakoru/chalkless#readme"
 }
